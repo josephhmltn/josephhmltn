@@ -1,5 +1,3 @@
-<img alt="Static Badge" src="https://img.shields.io/badge/linkedin-Connect!-black?style=social&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjosephhmltn%2F">
-
 ## Background & Interests
 I'm a competitive gamer turned data nerd after delving into the world of SQL and Python. What started as a hobby to get a competitive edge paved the way into a career.
 - 📊 Current project is a Steam game data analysis in Python and visualization in Power BI.
