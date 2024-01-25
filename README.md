@@ -9,7 +9,7 @@ I'm a competitive gamer turned data nerd after delving into the world of SQL and
 
 ## 🖥️ Technical Skills & Software
 
-### 👑 Reigning King
+### 👑 Reigning King of software used
 ![MS Excel Badge](https://img.shields.io/badge/MS%20Excel-green?style=for-the-badge&logo=microsoftexcel&labelColor=black&color=%23217346)
 
 ### SQL - Querying & Management
