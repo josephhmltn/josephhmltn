@@ -10,7 +10,7 @@ I'm a competitive gamer turned data nerd after delving into the world of SQL and
 ## 🖥️ Technical Skills & Software
 
 ### Spreadsheets
-👑![MS Excel Badge](https://img.shields.io/badge/MS%20Excel-green?style=for-the-badge&logo=microsoftexcel&labelColor=black&color=%23217346)
+![MS Excel Badge](https://img.shields.io/badge/MS%20Excel-green?style=for-the-badge&logo=microsoftexcel&labelColor=black&color=%23217346)
 ![Google Sheets Badge](https://img.shields.io/badge/Google%20Sheets-black?style=for-the-badge&logo=googlesheets&labelColor=black&color=%2334A853)
 
 ### SQL
