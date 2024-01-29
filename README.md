@@ -1,6 +1,6 @@
 ## Background & Interests
 I'm a competitive gamer turned data nerd after delving into the world of SQL and Python. What started as a hobby to get a competitive edge paved the way into a career.
-- 📊 Current projects are Steam game data analysis in Python and visualization in Power BI, and a used car aftermarket analysis in Python & Excel (maybe some visualization in Power BI?).
+- 📊 Current projects are a Steam game analysis in Python and visualization in Power BI, and a used car aftermarket analysis in Python & Excel (maybe some visualization in Power BI?).
 - 🥅 Current goal is getting the PL-300 certification from Microsoft for Power BI.
 - 👯 I’m open to collaborate on new projects.
 - 📝 You can reach me through [LinkedIn](https://www.linkedin.com/in/josephhmltn/).
