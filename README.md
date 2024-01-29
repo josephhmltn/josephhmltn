@@ -9,10 +9,11 @@ I'm a competitive gamer turned data nerd after delving into the world of SQL and
 
 ## 🖥️ Technical Skills & Software
 
-### 👑 Reigning King of usage
-![MS Excel Badge](https://img.shields.io/badge/MS%20Excel-green?style=for-the-badge&logo=microsoftexcel&labelColor=black&color=%23217346)
+### Spreadsheets
+👑![MS Excel Badge](https://img.shields.io/badge/MS%20Excel-green?style=for-the-badge&logo=microsoftexcel&labelColor=black&color=%23217346)
+![Google Sheets Badge](https://img.shields.io/badge/Google%20Sheets-black?style=for-the-badge&logo=googlesheets&labelColor=black&color=%2334A853)
 
-### SQL - Querying & Management
+### SQL
 
 ![MSSQL Badge](https://img.shields.io/badge/MSSQL%20Server-black?style=for-the-badge&logo=microsoftsqlserver&labelColor=black&color=%23CC2927)![MySQL Badge](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&labelColor=black&color=%234479A1)![BigQuery Badge](https://img.shields.io/badge/BigQuery-black?style=for-the-badge&logo=googlebigquery&labelColor=black&color=%23669DF6)![PostgreSQL Badge](https://img.shields.io/badge/Postgresql-black?style=for-the-badge&logo=postgresql&labelColor=black&color=%234169E1)![SQLite Badge](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite&labelColor=black&color=%23003B57)
 
@@ -26,7 +27,7 @@ I'm a competitive gamer turned data nerd after delving into the world of SQL and
 
 ### Collaboration
 
-![Jupyter Badge](https://img.shields.io/badge/Jupyter%20Notebooks-black?style=for-the-badge&logo=jupyter&labelColor=black&color=%23F37626)![MS Teams Badge](https://img.shields.io/badge/MS%20Teams-black?style=for-the-badge&logo=microsoftteams&labelColor=black&color=%236264A7)![MS Sharepoint Badge](https://img.shields.io/badge/MS%20sharepoint-blue?style=for-the-badge&logo=microsoftsharepoint&labelColor=black&color=%230078D4)![Google Docs Badge](https://img.shields.io/badge/Google%20Docs-black?style=for-the-badge&logo=googledocs&labelColor=black&color=%234285F4)![Google Drive Badge](https://img.shields.io/badge/Google%20Drive-black?style=for-the-badge&logo=googledrive&labelColor=black&color=%234285F4)![Google Sheets Badge](https://img.shields.io/badge/Google%20Sheets-black?style=for-the-badge&logo=googlesheets&labelColor=black&color=%2334A853)![Kaggle Badge](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&labelColor=black&color=%2320BEFF)![Deepnote Badge](https://img.shields.io/badge/deepnote-black?style=for-the-badge&logo=deepnote&labelColor=black&color=%233793EF)![Discord Badge](https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&labelColor=black&color=%235865F2)
+![Jupyter Badge](https://img.shields.io/badge/Jupyter%20Notebooks-black?style=for-the-badge&logo=jupyter&labelColor=black&color=%23F37626)![MS Teams Badge](https://img.shields.io/badge/MS%20Teams-black?style=for-the-badge&logo=microsoftteams&labelColor=black&color=%236264A7)![MS Sharepoint Badge](https://img.shields.io/badge/MS%20sharepoint-blue?style=for-the-badge&logo=microsoftsharepoint&labelColor=black&color=%230078D4)![Google Docs Badge](https://img.shields.io/badge/Google%20Docs-black?style=for-the-badge&logo=googledocs&labelColor=black&color=%234285F4)![Google Drive Badge](https://img.shields.io/badge/Google%20Drive-black?style=for-the-badge&logo=googledrive&labelColor=black&color=%234285F4)![Kaggle Badge](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&labelColor=black&color=%2320BEFF)![Deepnote Badge](https://img.shields.io/badge/deepnote-black?style=for-the-badge&logo=deepnote&labelColor=black&color=%233793EF)![Discord Badge](https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&labelColor=black&color=%235865F2)
 
 ### Version Control
 
