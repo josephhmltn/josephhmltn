@@ -1,15 +1,15 @@
 ## Background & Interests
 I'm a competitive gamer turned data nerd after delving into the world of SQL and Python. What started as a hobby to get a competitive edge paved the way into a career.
-- 📊 Current project is a Steam game data analysis in Python and visualization in Power BI.
+- 📊 Current projects are Steam game data analysis in Python and visualization in Power BI, and a used car aftermarket analysis in Python & Excel (maybe some visualization in Power BI?).
 - 🥅 Current goal is getting the PL-300 certification from Microsoft for Power BI.
 - 👯 I’m open to collaborate on new projects.
 - 📝 You can reach me through [LinkedIn](https://www.linkedin.com/in/josephhmltn/).
-- 🚲 My hobbies include hiking, biking, spelunking, video games, and D&D with friends.
+- 🚲 My hobbies are hiking, biking, spelunking, video games, and D&D with friends.
 - 🎉 Fun fact about me: I dyed my hair completely white while studying abroad in Japan in order to use it as an ice breaker to teach English to shy Japanese students.
 
 ## 🖥️ Technical Skills & Software
 
-### 👑 Reigning King of software used
+### 👑 Reigning King of usage
 ![MS Excel Badge](https://img.shields.io/badge/MS%20Excel-green?style=for-the-badge&logo=microsoftexcel&labelColor=black&color=%23217346)
 
 ### SQL - Querying & Management
